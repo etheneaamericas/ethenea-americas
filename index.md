@@ -1,6 +1,6 @@
 # ETHENEA Americas LLC
 
-![ETHENEA](./logo.png)
+![6.jpg]
 
 Welcome to ETHENEA official page.
 
