@@ -1,7 +1,5 @@
 # ETHENEA Americas LLC
 
-![6.jpg]
-
 Welcome to ETHENEA official page.
 
 ETHENEA is focused on:
